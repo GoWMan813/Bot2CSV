@@ -5,5 +5,6 @@ Bot2CSV is a tool designed to export loyalty points from bots across various str
 
 
 # TODO
-[x] Streamelements
-[x] Streamlabs
+- [x] Streamelements
+- [ ] Streamlabs
+- [ ] TBD
